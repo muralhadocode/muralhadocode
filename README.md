@@ -1,5 +1,7 @@
 ## Hi there 👋
-![snake](https://github.com/muralhadocode/muralhadocode/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/muralhadocode/muralhadocode/blob/output/github-snake.svg">
+</p>
 <!--
 **muralhadocode/muralhadocode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
